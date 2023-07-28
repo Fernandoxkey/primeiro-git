@@ -1,1 +1,2 @@
 # Meu primeiro repositorio git
+segunda linha de configuração do primeiro git
