@@ -1,2 +1,4 @@
 # Meu primeiro repositorio git
 segunda linha de configuração do primeiro git
+terceira edição para teste
+para comitar conectador com github
